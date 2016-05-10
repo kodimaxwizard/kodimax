@@ -1,0 +1,2 @@
+# kodimax
+Kodimax Wizard 
